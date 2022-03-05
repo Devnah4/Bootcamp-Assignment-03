@@ -1,12 +1,13 @@
 # Password Generator Starter Code
+=====
 
 ## Steps to complete
--Added Variables to represent my values
--Used ASCII to determine numerals
--Created generatePassword function
--Created Choice prompts using windows.confirm
--Created Loop that generates password based on the criteria
--set rturn value
+- Added Variables to represent my values
+- Used ASCII to determine numerals
+- Created generatePassword function
+- Created Choice prompts using windows.confirm
+- Created Loop that generates password based on the criteria
+- set rturn value
   
 ## Images
   
